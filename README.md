@@ -1,7 +1,7 @@
 # ArtemisMissionGame
 A virtual game based on cooperation
 
-This was a turn based game with the aim of collecting and completing mission goals as a team in preparation for mission launch. Unfortunately, I lost the code and learned a valuable lesson aboiut version control. Some of the diagrams used during the design process can be seen below.
+This was a turn based game with the aim of collecting and completing mission goals as a team in preparation for mission launch. Unfortunately, I lost the code and learned a valuable lesson about version control. Some of the diagrams used during the design process can be seen below.
 
 ![Screenshot from 2023-12-14 21-25-23](https://github.com/peteroh67/ArtemisMissionGame/assets/67584385/ccbe862c-4ba1-427d-8198-1407f669939d)
 
